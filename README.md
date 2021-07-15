@@ -1,3 +1,4 @@
+# Chem-Bot
 Instructions for testing my Chem Bot which has been submitted for the Silicon Valley Challenge!
 
 To test this bot you need to go into it's support server because this is bot is not officially released.
